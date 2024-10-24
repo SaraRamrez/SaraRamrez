@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25ucnVvcGQ2aTB5NzE1emo2eWF5aHB0amtjcjZjM2hqdHdjODQ4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Welcome!" width="300"/>
 
--- Full-stack de formación pero enamorada del backend. Hostelera de profesión y streamer en mis ratos libres, decidí darle un giro de 180º a mi vida y estudiar lo que siempre me apasionó. Siempre he estado rodeada de ordenadores, consolas... y nunca supe cómo llevarlo a mi ámbito profesional hasta que me encontré con la programación y me formé como desarrolladora web.
+## Full-stack de formación pero enamorada del backend. Hostelera de profesión y streamer en mis ratos libres, decidí darle un giro de 180º a mi vida y estudiar lo que siempre me apasionó. Siempre he estado rodeada de ordenadores, consolas... y nunca supe cómo llevarlo a mi ámbito profesional hasta que me encontré con la programación y me formé como desarrolladora web.
 
 const saraRamrez = {
   pronouns: "she" | "her",
