@@ -1,7 +1,7 @@
 ## Hola, soy Sara! 👋
 
 <a href="https://www.linkedin.com/in/sara-gonzález-69b258298/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="logo linkedin" width="300"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="logo linkedin" width="100"/>
 </a>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25ucnVvcGQ2aTB5NzE1emo2eWF5aHB0amtjcjZjM2hqdHdjODQ4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Welcome!" width="300"/>
